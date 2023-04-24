@@ -1,0 +1,8 @@
+C:\Users\AMIR\Desktop\temrin 2 c#\temrin 2 c#\bin\Debug\temrin 2 c#.exe.config
+C:\Users\AMIR\Desktop\temrin 2 c#\temrin 2 c#\bin\Debug\temrin 2 c#.exe
+C:\Users\AMIR\Desktop\temrin 2 c#\temrin 2 c#\bin\Debug\temrin 2 c#.pdb
+C:\Users\AMIR\Desktop\temrin 2 c#\temrin 2 c#\obj\Debug\temrin 2 c#.csproj.AssemblyReference.cache
+C:\Users\AMIR\Desktop\temrin 2 c#\temrin 2 c#\obj\Debug\temrin 2 c#.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMIR\Desktop\temrin 2 c#\temrin 2 c#\obj\Debug\temrin 2 c#.csproj.CoreCompileInputs.cache
+C:\Users\AMIR\Desktop\temrin 2 c#\temrin 2 c#\obj\Debug\temrin 2 c#.exe
+C:\Users\AMIR\Desktop\temrin 2 c#\temrin 2 c#\obj\Debug\temrin 2 c#.pdb
